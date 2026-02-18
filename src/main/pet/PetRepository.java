@@ -1,4 +1,4 @@
-package petstore.pet;
+package pet;
 
 import java.util.ArrayList;
 import java.util.List;
